@@ -39,3 +39,5 @@ Establish relationships using primary and foreign keys
 Data Analysis:
 Perform SQL queries to extract insights
 Calculate KPIs and performance metrics
+
+# Architecture Overview
